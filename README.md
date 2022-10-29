@@ -2,10 +2,10 @@
  
  Millennium Servers are a series of servers, each server has different purposes and functions.
  
- - Millennium ONE - General Use Games Server
- - Millennium TWO - XXX
+ - Millennium ONE - General Game Servers
+ - Millennium TWO - Multi Minecraft Game Server
  
 ## Millennium ONE
- MILLENIUM ONE
+ General Games Servers
 ## Millennium TWO
- MILLENIUM TWO
+ Multi Minecraft Game Server
