@@ -5,7 +5,7 @@
  - Millennium ONE - General Game Servers
  - Millennium TWO - Multi Minecraft Game Server
  
-## Millennium ONE
+## Millennium ALPHA
  General Games Servers
-## Millennium TWO
+## Millennium BETA
  Multi Minecraft Game Server
